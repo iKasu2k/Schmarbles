@@ -9,7 +9,7 @@
 </center>
 
 ## Why Schmarbles :question:
-I really enjoy seeing a Marble with my name in the stream I'm watching, but to be honest, when interacting
+I really enjoy looking at a Marble with my name in the stream I'm watching, but to be honest, when interacting
 with the community, I often get distracted and forget to write !play. To circumvent this issue, I've written
 this small bot to join the channel I watch and write !play for me. 
 
